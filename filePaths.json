@@ -1,0 +1,5 @@
+﻿{
+	"mysqlCredentialsSelect_JsonFile" : "C:\\Users\\srbla\\Documents\\Credentials\\Geo\\database_select_credentials.json",
+	"mysqlCredentialsInsert_JsonFile" : "C:\\Users\\srbla\\Documents\\Credentials\\Geo\\database_insert_credentials.json",
+	"userSites_JsonFile" : "C:\\Users\\srbla\\Documents\\Credentials\\Geo\\user_sites.json"
+}
